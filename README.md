@@ -1,4 +1,7 @@
 
+## MyCos
+Folk for hacking the force-touch ms to solve a touch delay issue on iPad /Tablet 
+
 ## ⚠️ Maintenance & support
 
 This library continues to be relied upon heavily by Atlassian products, but we are focused on other priorities right now and have no current plans for further feature development or improvements.
